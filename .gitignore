@@ -3,6 +3,14 @@
 *.lo
 *.o
 *.obj
+*.fbx
+
+ProjectChronosTests/Intermediate/
+ProjectChronosTests/Content/StarterContent/
+ProjectChronosTests/Saved/
+*.db
+ProjectChronosTests/Binaries/
+ProjectChronosTests/ProjectChronosTests.VC.VC.opendb
 
 # Precompiled Headers
 *.gch
